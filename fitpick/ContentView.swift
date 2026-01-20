@@ -140,7 +140,7 @@ struct ContentView: View {
                 }
             BodyMeasurementView()
                 .tabItem {
-                    Label("Body Mesaurement", systemImage: "ruler")
+                    Label("Body Mesaurementsss", systemImage: "ruler")
                 }
         }
     }
