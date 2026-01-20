@@ -20,16 +20,6 @@ struct HomeView: View {
     }
 }
 
-struct ClosetView: View {
-    var body: some View {
-        NavigationStack {
-            Text("Closet Screen")
-                .font(.largeTitle)
-                .navigationTitle("Closet")
-        }
-    }
-}
-
 struct SocialsView: View {
     var body: some View {
         NavigationStack {
